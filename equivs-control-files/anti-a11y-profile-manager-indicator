@@ -1,0 +1,12 @@
+Section: misc
+Priority: optional
+Homepage: http://www.google.com/search?q=do+a+barrel+roll
+Standards-Version: 3.9.2
+
+Package: anti-a11y-profile-manager-indicator
+Version: 1.1
+Maintainer: Your Mother <johndoe@example.com>
+Provides: a11y-profile-manager-indicator,mate-accessibility-profiles
+Architecture: all
+Description: silly dependencies are silly
+ I do not need this crap in a VM

@@ -1,0 +1,12 @@
+Section: misc
+Priority: optional
+Homepage: http://www.google.com/search?q=do+a+barrel+roll
+Standards-Version: 3.9.2
+
+Package: anti-cheese
+Version: 1.1
+Maintainer: Your Mother <johndoe@example.com>
+Provides: cheese
+Architecture: all
+Description: silly dependencies are silly
+ I do not need this garbage in a VM

@@ -1,0 +1,12 @@
+Section: misc
+Priority: optional
+Homepage: http://www.google.com/search?q=do+a+barrel+roll
+Standards-Version: 3.9.2
+
+Package: anti-apport
+Version: 1.0
+Maintainer: Your Mother <johndoe@example.com>
+Provides: apport,apport-nogui,apport-gtk,apport-kde,apport-symptoms,python3-apport
+Architecture: all
+Description: silly dependencies are silly
+ we don't need no // bug reportin'

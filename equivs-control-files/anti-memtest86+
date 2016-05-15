@@ -1,0 +1,11 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: anti-memtest86+
+Version: 1.0
+Maintainer: Your Mother <nobody@example.com>
+Provides: memtest86+
+Architecture: all
+Description: dummy package to allow removal of memtest86+
+ Stupid dependencies are stupid.
