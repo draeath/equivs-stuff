@@ -3,8 +3,8 @@ Please see [LICENSE.md](./LICENSE.md) for license information.
 Long story short, debian (and derivatives) have a neat tool called "equivs"
 that allows one to build empty packages that have package metadata.  
 
-This can be quite useful, but also incredibly dangerous. Do not take this
-tool lightly.  
+This can be quite useful, but also incredibly dangerous. [Do not take this
+tool lightly.](https://www.debian.org/doc/manuals/apt-howto/ch-helpers.en.html)
 
 In this case, I find myself often going "what was $MAINTAINER thinking? why
 on Earth does this top level metapackage 'foo' depend on 'bar?" If one were
