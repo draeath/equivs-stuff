@@ -4,9 +4,9 @@ Homepage: http://www.google.com/search?q=do+a+barrel+roll
 Standards-Version: 3.9.2
 
 Package: anti-blueman
-Version: 1.0
+Version: 1.1
 Maintainer: Your Mother <johndoe@example.com>
 Provides: blueman
 Architecture: all
 Description: silly dependencies are silly
- I do not need this crap in a VM
+ I do not need this garbage in a VM
