@@ -4,7 +4,7 @@ Standards-Version: 3.9.8
 
 Package: texlive-local
 Version: 2017-1
-Your Mother <johndoe@example.com>
+Maintainer: Your Mother <johndoe@example.com>
 Provides: chktex, biblatex, biblatex-dw, cm-super, cm-super-minimal, context, 
  dvidvi, dvipng, feynmf, fragmaster, jadetex, lacheck, latex-beamer, 
  latex-cjk-all, latex-cjk-chinese, latex-cjk-chinese-arphic-bkai00mp, 
